@@ -1,0 +1,7 @@
+# about.mappings
+# contains fill-ins for about.properties
+# java.io.Properties file (ISO 8859-1 with "\" escapes)
+# This file does not need to be translated.
+
+0=20150212-0100
+1=Luna Service Release 2 RC3 (4.4.2)

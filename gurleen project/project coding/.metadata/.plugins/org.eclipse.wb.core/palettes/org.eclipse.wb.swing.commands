@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+	<addCategory
+		id="category_1425497272765"
+		name="Custom"
+		description="Container for custom components"
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="custom_1425497272765"
+		name="FileChooser"
+		description="Creates javafx.stage.FileChooser component."
+		visible="true"
+		class="javafx.stage.FileChooser"
+		category="category_1425497272765"/>
+	<addComponent
+		id="custom_1425497286693"
+		name="FileChooser"
+		description="Creates javafx.stage.FileChooser component."
+		visible="true"
+		class="javafx.stage.FileChooser"
+		category="category_1425497272765"/>
+	<addComponent
+		id="custom_1425497311261"
+		name="FileChooser"
+		visible="true"
+		class="javafx.stage.FileChooser"
+		category="org.eclipse.wb.swing.components"/>
+	<moveCategory
+		id="org.eclipse.wb.swing.actions"
+		nextCategory="org.eclipse.wb.swing.components.awt"/>
+	<moveEntry
+		id="org.eclipse.wb.swing.layouts java.awt.GridLayout"
+		category="org.eclipse.wb.swing.layouts"
+		nextEntry="org.eclipse.wb.swing.layouts java.awt.BorderLayout"/>
+	<addComponent
+		id="custom_1426318507301"
+		name="JFrame"
+		description="Creates javax.swing.JFrame component."
+		visible="true"
+		class="javax.swing.JFrame"
+		category="category_1425497272765"/>
+	<addComponent
+		id="custom_1426319645088"
+		name="JFrame"
+		description="Creates javax.swing.JFrame component."
+		visible="true"
+		class="javax.swing.JFrame"
+		category="category_1425497272765"/>
+	<addComponent
+		id="custom_1426319663201"
+		name="JFrame"
+		description="Creates javax.swing.JFrame component."
+		visible="true"
+		class="javax.swing.JFrame"
+		category="category_1425497272765"/>
+	<addComponent
+		id="custom_1426319704263"
+		name="JFrame"
+		description="Creates javax.swing.JFrame component."
+		visible="true"
+		class="javax.swing.JFrame"
+		category="category_1425497272765"/>
+</commands>

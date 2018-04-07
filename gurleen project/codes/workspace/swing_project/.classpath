@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/test2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/MySQL Tools for 5.0/java/lib/mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
